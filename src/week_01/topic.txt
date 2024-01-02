@@ -1,1 +1,22 @@
 INTRODUCTION TO JAVA
+
+1. first java code
+
+    public static void main(String[] args) {
+
+    }
+
+    a. psvm :- Public static void main
+    b. sout :- System.out.Println()
+
+2. Keyword : 100 + keyword in java.
+
+3. Datatype :
+
+3. Type conversion :-
+    a. explicit conversion
+    b. Implicit conversion
+
+4. Comments :
+    a. single line comments :- //
+    b. MultiLine comments :- /*  */

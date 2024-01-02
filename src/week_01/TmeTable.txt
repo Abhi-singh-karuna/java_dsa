@@ -1,0 +1,11 @@
+DATE : 01th January 2024
+
+TARGET :- FROM 01/01/24 to 04/01/24 
+
+
+Topic : 
+
+    1. 1.1 The basics of Java Program, Variables, Data Types & Comments.
+    2. 1.2 Binary Number System, Java Operators and Taking User Input.
+    3. 1.3 Java Conditional Statements - If Else and Switch Statements in Java.
+    4. 1.4 Loops In Java - for, while and do-while Loops in Java.

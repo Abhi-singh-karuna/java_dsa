@@ -22,3 +22,28 @@ First Video week(1st)
         b. MultiLine comments :- /*  */
 
 Second Video week(1st)
+    1. Binary number system.
+        a. decimal to Binary.
+        b. Binary to decimal.
+
+        1Byte -> 8 bits
+        MSB  -> Most Significance Bits
+        LSB  -> Least Significance Bits
+
+        a. Binary addition.
+        b. Binary Subtraction.
+
+    2. Operators in java
+
+        a. Arithmetic Operator
+        b. Assignment
+        c. Relational operator
+        d. Logical operator
+        e. Unary operator
+        f Bitwise operator.
+
+
+    2. Take Input from user.
+
+
+    3.

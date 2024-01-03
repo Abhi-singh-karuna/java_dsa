@@ -1,4 +1,4 @@
-package week_01.Java_code.datatype;
+package week_01.Java_code.datatype_01;
 // data casting = type casting
 public class dataconversion {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package week_01.Java_code.opertor;
+package week_01.Java_code.opertor_02;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Old_files.loops;
+package old_files.loops;
 
 import java.util.Scanner;
 

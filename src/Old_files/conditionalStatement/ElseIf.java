@@ -1,4 +1,4 @@
-package Old_files.conditionalStatement;
+package old_files.conditionalStatement;
 
 public class ElseIf {
     public static void main(String[] args) {

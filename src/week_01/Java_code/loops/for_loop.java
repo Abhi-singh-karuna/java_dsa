@@ -1,8 +1,8 @@
-package week_01.Java_code.loops;
+package week_01.java_code.loops;
 
 import java.util.Scanner;
 
-public class forloop {
+public class for_loop {
     public static void main(String[] args) {
         System.out.println(" ---Here take a Input from user---");
         Scanner sc = new Scanner(System.in);

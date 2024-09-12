@@ -1,4 +1,4 @@
-package Old_files.conditionalStatement;
+package old_files.conditionalStatement;
 
 public class LogicalCondition {
     public static void main(String[] args) {

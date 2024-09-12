@@ -1,4 +1,4 @@
-package Old_files.pattern;
+package old_files.pattern;
 
 public class square {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Old_files.conditionalStatement;
+package old_files.conditionalStatement;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
-package week_01.Java_code.datatype_01;
+package week_01.java_code.datatype_01;
 
-public class datatype {
+public class data_type {
     public static void main(String[] args) {
         System.out.println("check your datatype here");
         boolean isx = true;

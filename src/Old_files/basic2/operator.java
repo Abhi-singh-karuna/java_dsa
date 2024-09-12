@@ -1,4 +1,4 @@
-package Old_files.basic2;
+package old_files.basic2;
 
 public class operator {
     public static void main(String[] args) {

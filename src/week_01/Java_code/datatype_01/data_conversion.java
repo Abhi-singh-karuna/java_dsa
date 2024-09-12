@@ -1,6 +1,6 @@
-package week_01.Java_code.datatype_01;
+package week_01.java_code.datatype_01;
 // data casting = type casting
-public class dataconversion {
+public class data_conversion {
     public static void main(String[] args) {
         System.out.println("here to use implicit and explicit conversion in java : ");
         int x = 10;

@@ -1,8 +1,8 @@
-package week_01.Java_code.opertor_02;
+package week_01.java_code.opertor_02;
 
 import java.util.Scanner;
 
-public class TakingInputfromUser {
+public class taking_Input_from_User {
     public static void main(String[] args) {
 
         /*taking input as string*/

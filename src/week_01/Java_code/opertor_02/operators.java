@@ -1,4 +1,4 @@
-package week_01.Java_code.opertor_02;
+package week_01.java_code.opertor_02;
 
 public class operators {
     public static void main(String[] args) {

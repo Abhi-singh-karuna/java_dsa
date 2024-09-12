@@ -1,8 +1,8 @@
-package week_01.Java_code.loops;
+package week_01.java_code.loops;
 
 import java.util.Scanner;
 
-public class breakContinue {
+public class break_Continue {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Pick your fav number here : ");

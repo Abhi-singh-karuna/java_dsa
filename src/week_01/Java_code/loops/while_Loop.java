@@ -1,8 +1,8 @@
-package week_01.Java_code.loops;
+package week_01.java_code.loops;
 
 import java.util.Scanner;
 
-public class whileLoop {
+public class while_Loop {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Your Number : ");

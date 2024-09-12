@@ -1,4 +1,4 @@
-package week_01.Java_code.datatype_01;
+package week_01.java_code.datatype_01;
 
 public class hello {
     public static void main(String[] arg){

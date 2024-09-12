@@ -1,4 +1,4 @@
-package Old_files;
+package old_files;
 
 public class variable {
     public static void main(String[] args) {
